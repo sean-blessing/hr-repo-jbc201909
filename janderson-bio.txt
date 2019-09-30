@@ -7,3 +7,4 @@ Experienced software instructor with deep knowledge of the
 following software products:
 + Miscrosoft C# .Net
 + Git & GitHub
++ Java
