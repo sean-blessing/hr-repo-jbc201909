@@ -8,3 +8,4 @@ following software products:
 + Miscrosoft C# .Net
 + Git & GitHub
 + Java
++ MySQL
