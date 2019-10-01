@@ -9,3 +9,4 @@ following software products:
 + Git & GitHub
 + Java
 + MySQL
++ Angular
